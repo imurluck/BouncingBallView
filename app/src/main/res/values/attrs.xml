@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BouncingBallView">
+
+        <attr name="ballCount" format="integer" /><!--小球的个数-->
+        <attr name="ballColor" format="color" /><!--小球的颜色-->
+        <attr name="ballRadius" format="dimension" /><!--小球的半径-->
+        <attr name="cycleTime" format="integer" /><!--一个周期持续的时常-->
+    </declare-styleable>
+</resources>
